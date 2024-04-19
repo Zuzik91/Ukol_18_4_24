@@ -10,6 +10,8 @@ namespace Ukol
     {
         static void Main(string[] args)
         {
+            //Napište program, který se zeptá na dvě čísla a zobrazí jejich součet.
+
             Console.WriteLine("Zadej první číslo:");
             double prvniCislo =double.Parse(Console.ReadLine());
 
